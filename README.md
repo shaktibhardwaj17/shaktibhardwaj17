@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaktibhardwaj17
-- 👀 I’m interested in bigdata , machine learning and AI.
+- 👀 Working on My Fullstack skills and app development.
 - 🌱 I’m currently pursuing my bachelor of technology in computer science at DIT university, dehradun, uttrakhand.
-- 💞️ I’m looking to collaborate on data analysis, and i am also interested in working on small projects to gain experience.
+- 💞️ I’m looking to collaborate on full stack projects, and also i am interested in working on small projects to gain experience.
 - 📫 How to reach me:
       -Email: shaktibhardwaj2030@gmail.com
       -linkedIn: Shakti Bhardwaj
